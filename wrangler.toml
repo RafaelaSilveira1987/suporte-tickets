@@ -9,3 +9,5 @@ database_id = "seu-database-id-aqui"
 
 [vars]
 ENVIRONMENT = "production"
+
+pages_build_output_dir = "dist"
